@@ -1,0 +1,15 @@
+{
+  "title": "RandomReddit",
+  "name": "randomreddit",
+  "version": "0.0.1",
+  "description": "Simple addon for easier browsing through /r/Random reddit sub.",
+  "main": "index.js",
+  "author": "epson121",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
